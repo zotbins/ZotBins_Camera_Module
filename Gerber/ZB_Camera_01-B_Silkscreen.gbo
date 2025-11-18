@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*
+G04 #@! TF.CreationDate,2025-11-14T17:50:21-08:00*
+G04 #@! TF.ProjectId,ZB_Camera_01,5a425f43-616d-4657-9261-5f30312e6b69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-11-14 17:50:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.600000*%
+G04 APERTURE END LIST*
+%LPC*%
+D10*
+X137235459Y-125214587D03*
+X147395459Y-125214587D03*
+X137219629Y-128463475D03*
+X147379629Y-128463475D03*
+%LPD*%
+M02*
